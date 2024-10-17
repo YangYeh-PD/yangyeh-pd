@@ -6,7 +6,7 @@ With a deep interest in low-level programming and system architecture, I am cons
 
 ## 🌱 Education  
 ### National Cheng Kung University (NCKU)
-**Research Interests**: ![Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Scheduler and Libraries.
+**Research Interests**: [Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Scheduler and Libraries.
 
 ## 🔭 Experience
 ### Coding Ape
