@@ -16,7 +16,7 @@ With a deep interest in low-level programming and system architecture, I am cons
 
 ### NCKU Economics Department
 *Sep. 2020 - Feb. 2021*  
-- Developed, modifed and improved data crawler programs using Selenium in Python to efficiently extract air pollution data from NASA.
+- Developed, modified and improved data crawler programs using Selenium in Python to efficiently extract air pollution data from NASA.
 - Used Stata and regression methods to analyze over 300 million data points to investigate the relationship between children's IQ and PM2.5 index in Afirca.
 
 ## 👯 Extracurricular Activities
