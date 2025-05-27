@@ -1,9 +1,4 @@
 ## 🔭 Experience
-### Programming Instructor @ Coding Ape
-*Sep. 2021 - Aug. 2024*
-- Taught programming concepts including basic syntax, program structure, pointers, object-oriented design, stack, queue, linked list, tree, hash 
-table data structures and searching, sorting algorithms in C, C++, and Python.
-
 ### Firmware Developer @ NCKU
 *Sep. 2022 - Aug. 2023*  
 - Designed, analyzed, and implemented digital infrared sensor circuits for educational teaching aids featured at a Physics Education Science Fair. 
@@ -14,7 +9,9 @@ successful exhibition.
 
 ### Research Assistant @ NCKU
 *Sep. 2020 - Feb. 2021*
-- Developed, modified and improved data crawler programs using Selenium in Python to efficiently extract air pollution data from NASA.
+- Designed, developed, and optimized Python web crawlers using Selenium to automate the extraction of air pollution data from NASA's online 
+databases. Enhanced data collection efficiency and reliability by implementing robust error-handling mechanisms and scheduling features for 
+regular updates.
 - Used Stata and regression methods to analyze more than 300 million data points to investigate the relationship between children’s IQ and PM2.5 
 index in Africa.
 
@@ -29,7 +26,7 @@ and their time and space complexity.
 ## 🌱 Education  
 ### Bachelor of Science in Physics @ National Cheng Kung University (NCKU)
 **Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Concurrency, Scheduler and Libraries), Embedded 
-System, Firmware, and Quantum Communication.
+System, Firmware.
 
 <!--
 **YangYeh-PD/yangyeh-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
