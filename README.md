@@ -1,4 +1,8 @@
 ## 🔭 Experience
+### Programming Instructor @ Coding Ape
+- Taught core programming principles in C, C++, and Python, including pointers, memory management, data structures (stack, queue, linked list, 
+tree, hash table), and algorithms (searching, sorting).
+
 ### Firmware Developer @ NCKU
 *Sep. 2022 - Aug. 2023*  
 - Designed, analyzed, and implemented digital infrared sensor circuits for educational teaching aids featured at a Physics Education Science Fair. 
@@ -20,13 +24,10 @@ index in Africa.
 *Sep. 2022 - Aug. 2023*
 - Developed web-based [algorithm visualizers](https://tseanlin.github.io/Sorting_Visualizer/) using HTML/CSS and JavaScript with the React framework, which were used as teaching tools at Coding 
 Ape.
-- Mentored team members in C/C++ programming, providing guidance on key topics including sorting algorithms (Merge Sort, Quick Sort, Heap Sort) 
-and their time and space complexity.
 
 ## 🌱 Education  
 ### Bachelor of Science in Physics @ National Cheng Kung University (NCKU)
-**Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Concurrency, Scheduler and Libraries), Embedded 
-System, Firmware.
+**Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024)), Embedded System, Firmware.
 
 <!--
 **YangYeh-PD/yangyeh-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
